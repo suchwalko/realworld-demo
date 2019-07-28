@@ -1,6 +1,6 @@
 # Realworld Demo
 
-Attempt to recreate https://demo.realworld.io based on webpack starter, javascript, webcomponents.
+Attempt to recreate https://demo.realworld.io (or https://demo.productionready.io) based on webpack starter, javascript, webcomponents.
 
 ### Installation
 
