@@ -1,9 +1,6 @@
-# Webpack Frontend Starterkit
+# Realworld Demo
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
-
-A lightweight foundation for your next webpack based frontend project.
-
+Attempt to recreate https://demo.realworld.io based on webpack starter, javascript, webcomponents.
 
 ### Installation
 
