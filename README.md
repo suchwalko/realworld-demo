@@ -4,8 +4,9 @@ Attempt to recreate https://demo.realworld.io (or https://demo.productionready.i
 
 ## Endpoints
 
-[Postman environment](doc/Conduit.postman_environment.json)
-[Postman collection](doc/Conduit.postman_collection.json)
+Postman environment [json](doc/Conduit.postman_environment.json)
+
+Postman collection [markdown](doc/Conduit.postman_collection.md) [json](doc/Conduit.postman_collection.json)
 
 ## Installation
 
